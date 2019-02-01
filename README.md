@@ -1,4 +1,6 @@
 # ##js-inject-tool
 ---------------------------------------
-self js inject for demo
+
+edit src for js code (default in jsbin)
+
 
